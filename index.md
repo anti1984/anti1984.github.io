@@ -1,30 +1,21 @@
 ---
-title: Home
+title: "🌏 隐私即自由"
 layout: home
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![]({{ 'assets/1984.jpg' | relative_url }})
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+《1984》正在成为现实，审核制度｜网络监控｜摄像头｜大数据采集｜AI侦测｜无处不在，相关部门的终极目标是为每个人建立一套个人电子档案，包括你所有的个人信息｜家庭情况｜社会关系｜财务状况｜购物记录｜个人征信｜处罚记录｜违规记录｜网络身份｜网络言行｜网络地址｜个人密码｜电子文档照片｜出行记录｜地理位置信息｜体貌特征｜等等，在任何时候，只要输入你的名字，或者扫个码，这些信息就一览无余。
 
-More specifically, the created site:
+当你在内网发表了不被允许的言论，根据你手机注册的帐号信息，也许你很快就会收到神秘的电话，被要求删除，并被警告不许再犯。也许你是翻墙在外网发表，如果你曾经转过内网的账号和文字照片等信息，通过大数据比对，你的真实身份很快会被确认，相关部门也可以通过某些渠道获知你的翻墙IP，你的注册手机号，这些都可以让你的身份很快被确认。 当你在线下参加了一些不被允许的活动，监控拍到了你的照片，根据你的体貌特征等隐私数据比对，再根据你的手机定位行踪数据，大数据系统可以迅速确认你的身份。
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+以上只列举了一小部分，总之，只要被相关部门认定你做了不被允许的言论行为，你的个人电子档案中就会留下记录，从此成为你人生的一部分。如果屡教不改，会被请去喝茶，并且因此进入相关部门的VIP名单，从此享受他们的VIP服务，包括不定时拜访，敏感时期行为警告，24小时定位，限制人身自由等等。
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+当你的个人电子档案有他们认为的污点，从此你的个人发展，社会活动会经常撞上很多隐形的墙，当你申办护照和出入境的时候，如果你有过踩红线的处罚记录，有可能会被拒绝出入境。即使你人在墙外，你的言行依然会受到密切关照，相关部门会拜访你的父母，你家庭成员的发展和经济行为会受到影响，限制，打压。
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+你个人的隐私，如果自己不保护好，相关部门就会在未经你允许的情况下，尽可能的采集这些数据，你的个人电子档案的数据就会非常全面，并用来控制你，恐吓你，最后让你不敢思考，不敢发声。
 
-To get started with creating a site, just click "[use this template]"!
+通过控制每个个体，让整个社会沉默，最终只有一种思想，一种声音，这就是《1984》。
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+隐私即自由，自由是身而为人最宝贵的东西！
