@@ -1,0 +1,54 @@
+---
+title: "参考"
+layout: default
+nav_order: 99
+
+
+---
+
+https://www.privacytools.io/encrypted-dns-resolver
+
+https://reconsidera.github.io/zh/
+
+https://www.privacyguides.org/
+
+![]({{ 'assets/torlogo.jpg' | relative_url }})[Tor 浏览器](http://torproject.org){: .btn .btn-purple }
+
+<button type="button" name="button" class="btn">Button element</button>
+
+{:.ruby}
+	> [!重点] 注意：
+	> 前方风浪！
+
+{:.ruby}
+	你好
+
+> 侬好
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o5g-lUuFgpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+A simple paragraph with an ID attribute.
+{: #para-one}
+
+> A blockquote with a title
+{:title="The blockquote title"}
+{: #myid}
+
+{: .highlight }
+A paragraph
+
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+
+==Dorothy followed her through many of the beautiful rooms in her castle.==
+
+I need to highlight these ==very important words==.
+
+<img src="../assets/torlogo.jpg" height="36"><img src="../assets/torcn1.jpg" height="36"><img src="../assets/torcn2.jpg" height="36">
+
+<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/app1.png" alt="Make a private connection" height="360"> 
+<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/arrow.png" height="360"> 
+<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/app2.png" alt="Conversation" height="360"> 
+<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/arrow.png" height="360"> 
+<img src="https://github.com/simplex-chat/.github/blob/master/profile/images/app3.png" alt="Video call" height="360">
